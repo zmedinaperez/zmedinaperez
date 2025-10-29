@@ -42,6 +42,7 @@ Exploring how **programming** and **data science** can be used to understand bio
 ## 📫 Let’s Connect!
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)](https://github.com/zmedinaperez)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zhaide-mp)
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet)
 
 ---
 
