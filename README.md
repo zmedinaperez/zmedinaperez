@@ -47,8 +47,8 @@ Exploring how **programming** and **data science** can be used to understand bio
 ---
 
 ## 📊 GitHub Stats
-![Z-MedinaPerez's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Z-MedinaPerez&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Z-MedinaPerez&layout=compact&theme=tokyonight)
+![Z-MedinaPerez's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zmedinaperez&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zmedinaperez&layout=compact&theme=tokyonight)
 
 ---
 
