@@ -8,6 +8,15 @@ I’m a Biology and Database Development student with a growing passion for comp
 
 ---
 
+## ⚙️ Tech & Tools
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
 ## 👩🏻‍💻 About Me 👩🏻‍💻
 
 - 🎓 Studying **Biology** & **Database Development**  
@@ -33,6 +42,12 @@ Exploring how **programming** and **data science** can be used to understand bio
 ## 📫 Let’s Connect!
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)](https://github.com/zmedinaperez)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zhaide-mp)
+
+---
+
+## 📊 GitHub Stats
+![Z-MedinaPerez's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Z-MedinaPerez&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Z-MedinaPerez&layout=compact&theme=tokyonight)
 
 ---
 
